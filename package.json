@@ -1,0 +1,20 @@
+{
+  "name": "aquifer-docker",
+  "version": "1.0.0",
+  "description": "Docker deployment for Aquifer",
+  "main": "./bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aquifer/aquifer-docker.git"
+  },
+  "keywords": [
+    "framework",
+    "aquifer"
+  ],
+  "author": "Matthew Grill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquifer/aquifer-docker/issues"
+  },
+  "homepage": "https://github.com/aquifer/aquifer-docker"
+}
